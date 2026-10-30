@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.env
+.env.local
+*.egg-info/
+.venv312/
+.uv-cache/
+.npm-cache/
+*.tsbuildinfo
+.docker-local/
+.python/
